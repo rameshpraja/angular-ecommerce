@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "angularspree": "angularspree",
+    "default": "angularspree",
+    "staging": "angularspree"
+  }
+}
