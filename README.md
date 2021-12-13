@@ -216,6 +216,6 @@ We love some frameworks too:-
 * ReactJs
 * BackboneJs
 
-### We are avialible for hire
+### We are available for hire
 
 __If you want to hire us for a project, please contact us on `hello@aviabird.com`.__
